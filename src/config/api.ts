@@ -1,6 +1,6 @@
 // Configuração centralizada da API
 export const API_CONFIG = {
-  BASE_URL: "/api/",
+  BASE_URL: "/api",
   ENDPOINTS: {
     AUTH: "/auth",
     USERS: "/users",
